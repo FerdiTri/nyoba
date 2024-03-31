@@ -1,1 +1,1 @@
-print("gg bang")
+return "gg bang"
