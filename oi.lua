@@ -1,1 +1,1 @@
-LogToConsole("gg bang")
+print("gg bang")
