@@ -1,0 +1,1 @@
+LogToConsole("gg bang")
